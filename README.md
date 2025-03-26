@@ -4,11 +4,11 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=Python)](https://github.com/tellosilvam/CopaLibertadores-GroupStage-Draw/blob/main/libdraw.py)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=Pandas)  
 
-![Copa Libertadores Draw](thumb.jpg)
+![Copa Libertadores Draw](thumb.png)
 
 ## 🔗 Links  
 
-- 🎮 [**Live App: Copa Libertadores Draw**](https://sorteocopalibertadores.streamlit.app/)  
+- 🎮 Live App: [**Copa Libertadores Draw**](https://sorteocopalibertadores.streamlit.app/)  
 - 📜 [**GitHub Repository**](https://github.com/tellosilvam/CopaLibertadores-GroupStage-Draw)  
 
 ---
